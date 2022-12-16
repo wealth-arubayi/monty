@@ -106,5 +106,5 @@ L3: unknown instruction pcx
 ### Return value
 When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
-## Authors
-* Wealth Arubayi: [Twitter] (https://twitter.com/Wealtharubayi) - [GitHub](https://github.com/wealth-arubayi)
+## Author
+* Wealth Arubayi: [Twitter](https://twitter.com/Wealtharubayi) - [GitHub](https://github.com/wealth-arubayi)
